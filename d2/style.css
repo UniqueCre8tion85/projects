@@ -1,0 +1,18 @@
+h1{
+    color: green;
+}
+
+form{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    width: 200px;
+    margin-top: 20px;
+    background: rgb(0, 0, 135);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding-top:  5px;
+    padding-bottom: 5px;
+}

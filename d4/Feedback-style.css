@@ -1,0 +1,59 @@
+#topCard{
+    border: 5px solid purple;
+    margin-top: 15px;
+}
+
+#topCard > hr{
+    margin-bottom: 40px;
+}
+
+body{
+    background-color: #CBC3E3
+}
+
+.questionCard{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.questionCard p{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.score{
+    margin-bottom: 25px;
+}
+
+.radioRow{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#speedQuestion .row{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#speedQuestion input{
+    margin-left: 15px;
+}
+
+#buttonRow{
+    margin-bottom: 50px;
+}
+
+#submitButton{
+    background: purple;
+}
+
+#clearButton{
+    border: 1px solid purple;
+    color: purple;
+}
+
+#clearButton:hover{
+    background: purple;
+    color: white;
+}
+

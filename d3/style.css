@@ -1,0 +1,13 @@
+#todaysWeatherIcon{
+    font-size: 36px;
+    text-align: center;
+}
+
+#todaysTemp{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.bold{
+    font-weight: 700;
+}
